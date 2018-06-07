@@ -35,7 +35,7 @@ ul{
     margin: 20px;
     padding: 0;
     overflow: hidden;
-    margin-top: 50px;
+    margin-top: 32px;
 }
 
 li{
@@ -67,18 +67,16 @@ li{
     overflow: auto;
     width: 960px;
     margin: 0 auto;
+    margin-top: 50px;
 }
 .secondary-header{
     color: #4aaaa5;
     font-size: 36;
     font-weight: bold;
-    padding: 25;
     padding-bottom: 25;
     border-bottom: #4444 solid;
     width: 800;
-    margin-left: 60;
-    padding-left: 0;
-    padding-right: 35;
+    margin: 0 auto;
     margin-bottom: 25;
 }
 .me{
@@ -89,7 +87,7 @@ li{
 }
 .biobox{
     width: 800;
-    padding-left: 60px;
+    margin: 0 auto;
     padding-top: 10;
 }
 .biotext{
@@ -111,4 +109,11 @@ footer{
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 50px;
+}
+.form{
+    width: 800px;
+    margin: 0 auto;
+}
+.submitbutton{
+    margin-bottom: 15px;
 }
