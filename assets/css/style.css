@@ -1,0 +1,114 @@
+body{
+    background-image: url(../images/stripes-light.png);
+    width: 960px;
+    margin: 0 auto;
+}
+.logo{
+    float: left;
+    background-color: #4aaaa5;
+    padding: 15px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #dddddd;
+}
+
+.maindiv{
+    position: relative;
+
+}
+
+.primary-header{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 960px;
+    border-bottom: solid #dddddd 2px;
+    height: 89px;
+    background-color: #ffff;
+}
+
+.primary-nav{
+    float: right;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+    overflow: hidden;
+    margin-top: 50px;
+}
+
+li{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    float: right;
+}
+
+.li1{
+    color: #dddddd;
+    padding: 20px;
+    text-decoration-line: none;
+    border-left: solid #dddddd 1px;
+}
+
+.li2{
+    padding: 20px;
+    text-decoration-line: none;
+    color: #dddddd;
+    border-left: solid #dddddd 1px;
+}
+
+.li3{
+    padding: 20px;
+    text-decoration-line: none;
+    color: #dddddd;
+}
+.mainbody{
+    background-color: white;
+    overflow: auto;
+    width: 960px;
+    margin: 0 auto;
+}
+.secondary-header{
+    color: #4aaaa5;
+    font-size: 36;
+    font-weight: bold;
+    padding: 25;
+    padding-bottom: 25;
+    border-bottom: #4444 solid;
+    width: 800;
+    margin-left: 60;
+    padding-left: 0;
+    padding-right: 35;
+    margin-bottom: 25;
+}
+.me{
+    float: left;
+    padding-right: 40px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+.biobox{
+    width: 800;
+    padding-left: 60px;
+    padding-top: 10;
+}
+.biotext{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+footer{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: #666666;
+    border-top: solid 5px #4aaaa5;
+    color: #777777;
+    text-align: center;
+    height: 30px;
+}
+.portpic{
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
